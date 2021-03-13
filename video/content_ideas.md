@@ -1,5 +1,6 @@
 # Content Ideas
 [x] begin
 [ ] mastering
-[ ] starting
+[x] starting
 [ ] end
+test
